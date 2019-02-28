@@ -1,6 +1,7 @@
 # logo
 Project of logotype
 ![logo](falling-mail.png)
+![logo](falling-mail1.png)
 
 Options
 + https://www.vectorstock.com/royalty-free-vector/birds-delivering-mail-vector-1060181
